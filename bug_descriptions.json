@@ -1,0 +1,23 @@
+[
+    {
+        "description": "Azure data imported into Insight broken links. Our Azure data imported into Insight documentation contains broken links within the 'Default Type' column for each of the Object Types. Links point to an IP address instead of a correct domain. But Links should redirect to the correct Object Type."
+    },
+    {
+        "description": "The number of issues at capacity insights for Kanban teams will be incorrect in the Advanced Roadmaps plan in case you will disable the 'Enhanced capacity distribution' feature. It will be incorrectly calculated by summing up estimates (days/hours). The number of issues in capacity insight for the current Kanban iteration is defined as the sum of estimates (days/hours). Expected Results is The number of issues in capacity insight for the current Kanban iteration should correlate with an actual number of the issues assigned to a team."
+    },
+    {
+        "description": "User interface elements are not displaying correctly on mobile devices. The navigation bar overlaps with the main content, making it difficult to use the application on smaller screens. Expected behavior is that the navigation bar should be responsive and adapt to different screen sizes."
+    },
+    {
+        "description": "When attempting to log in, the system throws a 500 Internal Server Error. This seems to occur intermittently and is affecting multiple users across different browsers. Expected result is that users should be able to log in without encountering server errors."
+    },
+    {
+        "description": "The application allows users to input negative values for age, which should not be possible. Expected behavior is to validate the input and restrict it to positive values only."
+    },
+    {
+        "description": "The full reindex process has slowed down significantly for some customers. This is due to extra operations performed during reindexing that improve index correctness"
+    },
+    {
+        "description": "Issue status tooltip on Issue View shows HTML markup if you mouse-over during page load . After loading an issue or refreshing the page while on the Issue view, if you quickly mouse-over the Issue Status you'll be presented with the HTML markup instead of the rendered tooltip"
+    }
+]
